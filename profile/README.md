@@ -1,12 +1,15 @@
-## Hi there 👋
+Consulting and research in AI agents, data analysis, DevX and ML systems.
 
-<!--
+We build tools, solve hard problems, and open source what we can.
 
-**Here are some ideas to get you started:**
+Check out our open source projects in the pinned repositories below.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+<video src=""></video>
+
+---
+
+### Get in touch
+
+Ambitious project? Hard technical problem? [Let's talk](mailto:hello@ventoryx.dev).
